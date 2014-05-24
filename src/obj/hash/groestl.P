@@ -1,0 +1,2 @@
+obj/hash/groestl.o: hash/groestl.c hash/sph_groestl.h hash/sph_types.h
+hash/groestl.c hash/sph_groestl.h hash/sph_types.h :
